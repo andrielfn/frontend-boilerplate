@@ -1,0 +1,8 @@
+// Colors
+$text-color: #333;
+
+// Breakpoints
+$breakpoints: (
+  'tablet': (min-width: 768px),
+  'desktop': (min-width: 960px)
+) !default;
